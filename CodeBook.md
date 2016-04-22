@@ -63,15 +63,14 @@ in the data set.
   * The second column of "features.txt" for xtrain and xtest.
 5. Merge the training and the test sets to create one data sets.
 6. Extract the measurements on the mean and std for each measurement.
-7. Use descriptive activity names contains on "activity_labels.txt" to name the activities
-in data.
+7. Use descriptive activity names contains on "activity_labels.txt" to name the activities in data.
 8. Label the data with descriptive variable names.
-		* "t" for "time".
-		* "f" for "frequency".
-		* "Acc" for "Accelerometer".
-		* "Gyro" for "Gyroscope".
-		* "Mag" for "Magnitude".
-		* "BodyBody" for "Body".
+  * "t" for "time".
+  * "f" for "frequency".
+  * "Acc" for "Accelerometer".
+  * "Gyro" for "Gyroscope".
+  * "Mag" for "Magnitude".
+  * "BodyBody" for "Body".
 9. From the data, create a new independent tidy data set with the average for each variable
 for each activity and each sbject.
 
